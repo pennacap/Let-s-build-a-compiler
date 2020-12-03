@@ -1,35 +1,6 @@
+<h1 align='center'>LET'S BUILD A COMPILER!</h1>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#<center>LET'S BUILD A COMPILER!</center>
-
-                             By Jack W. Crenshaw, Ph.D.
-
-                                  24 July 1988
+<h3 align='center'>By Jack W. Crenshaw, Ph.D.<br/><br/>24 July 1988</h3>
 
 
                               Part I: INTRODUCTION
