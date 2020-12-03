@@ -25,7 +25,7 @@
 
 
 
-#<center>LET'S BUILD A COMPILER!</center
+#<center>LET'S BUILD A COMPILER!</center>
 
                              By Jack W. Crenshaw, Ph.D.
 
