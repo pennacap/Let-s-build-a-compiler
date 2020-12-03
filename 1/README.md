@@ -1,6 +1,6 @@
 <h1 align='center'>LET'S BUILD A COMPILER!</h1>
 
-<p align='center' style='font-size: 1.17em;font-weight:bold'>By Jack W. Crenshaw, Ph.D.<br/>24 July 1988</p>
+<b><p align='center' style='font-size: 1.17em;'>By Jack W. Crenshaw, Ph.D.<br/>24 July 1988</p></b>
 
 
                               Part I: INTRODUCTION
