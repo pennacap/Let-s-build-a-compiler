@@ -1,19 +1,13 @@
 <h1 align='center'>LET'S BUILD A COMPILER!</h1>
 
-<b><p align='center' style='font-size: 1.17em;'>By Jack W. Crenshaw, Ph.D.<br/>24 July 1988</p></b>
+<p align='center' style='font-size: 1.17em;'>By Jack W. Crenshaw, Ph.D.<br/>24 July 1988</p>
 
 
-                              Part I: INTRODUCTION
+<h2 align='center'> Part I: INTRODUCTION </h2>
 
-
-*****************************************************************
-*                                                               *
-*                        COPYRIGHT NOTICE                       *
-*                                                               *
-*   Copyright (C) 1988 Jack W. Crenshaw. All rights reserved.   *
-*                                                               *
-*****************************************************************
-
+<h3 align='center'>COPYRIGHT NOTICE</h3>
+<hr>
+<p align='center'>Copyright (C) 1988 Jack W. Crenshaw. All rights reserved.</p>
 
 INTRODUCTION
 
