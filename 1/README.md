@@ -25,11 +25,9 @@
 
 
 
-                            LET'S BUILD A COMPILER!
+#<center>LET'S BUILD A COMPILER!</center
 
-                                       By
-
-                            Jack W. Crenshaw, Ph.D.
+                             By Jack W. Crenshaw, Ph.D.
 
                                   24 July 1988
 
